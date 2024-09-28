@@ -5,6 +5,7 @@ The game includes:
 - [X] Basic functionality for card dealing, betting, and game flow.
 - [X] Real-time score updates.
 - [X] Simple and intuitive command-line interface.
+      
 **Rules**
 - [X] Both the player and the dealer are dealt two cards.
 - [X] The player can choose to "Hit" (take another card) or "Stand" (keep their current cards).
